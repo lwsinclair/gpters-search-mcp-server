@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chat-prompt-gpters-search-mcp-server-badge.png)](https://mseep.ai/app/chat-prompt-gpters-search-mcp-server)
+
 # GPTers Search MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@chat-prompt/gpters-search-mcp-server)](https://smithery.ai/server/@chat-prompt/gpters-search-mcp-server)
